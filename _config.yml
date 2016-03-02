@@ -1,0 +1,28 @@
+name: ariel.layug
+favicon: null
+layout_spectrum: 0.5055015031248331
+typography_spectrum: 0.8800206007435918
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.74898861348629
+  lightness: 0.31416905485093594
+  saturation: 0.9131338295992464
+  rhythmicContrast: 0.7433961883652955
+purpose: []
